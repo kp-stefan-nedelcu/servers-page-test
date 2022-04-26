@@ -1,0 +1,370 @@
+[
+    {
+        "name": "RO Bucharest",
+        "iso": "RO",
+        "dns": "ro.http-proxy.privateinternetbrowsing.com",
+        "ping": "143.244.54.33",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "US Los Angeles",
+        "iso": "US",
+        "dns": "us-california.http-proxy.privateinternetbrowsing.com",
+        "ping": "146.70.49.188",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "JP Tokyo",
+        "iso": "JP",
+        "dns": "japan.http-proxy.privateinternetbrowsing.com",
+        "ping": "156.146.34.39",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "AU Melbourne",
+        "iso": "AU",
+        "dns": "aus-melbourne.http-proxy.privateinternetbrowsing.com",
+        "ping": "221.121.142.194",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "DK Copenhagen",
+        "iso": "DK",
+        "dns": "denmark.http-proxy.privateinternetbrowsing.com",
+        "ping": "146.70.42.122",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "DE Berlin",
+        "iso": "DE",
+        "dns": "de-berlin.http-proxy.privateinternetbrowsing.com",
+        "ping": "37.120.217.30",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "US New York",
+        "iso": "US",
+        "dns": "us-newyorkcity.http-proxy.privateinternetbrowsing.com",
+        "ping": "138.199.13.167",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "US Silicon Valley",
+        "iso": "US",
+        "dns": "us-siliconvalley.http-proxy.privateinternetbrowsing.com",
+        "ping": "66.115.165.62",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "PL Warsaw",
+        "iso": "PL",
+        "dns": "poland.http-proxy.privateinternetbrowsing.com",
+        "ping": "138.199.59.233",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "FI Helsinki",
+        "iso": "FI",
+        "dns": "fi.http-proxy.privateinternetbrowsing.com",
+        "ping": "46.246.34.27",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "US Seattle",
+        "iso": "US",
+        "dns": "us-seattle.http-proxy.privateinternetbrowsing.com",
+        "ping": "156.146.49.4",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "US Phoenix",
+        "iso": "US",
+        "dns": "us3.http-proxy.privateinternetbrowsing.com",
+        "ping": "107.181.185.123",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "ES Madrid",
+        "iso": "ES",
+        "dns": "spain.http-proxy.privateinternetbrowsing.com",
+        "ping": "45.128.39.245",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "HU Budapest",
+        "iso": "HU",
+        "dns": "hungary.http-proxy.privateinternetbrowsing.com",
+        "ping": "185.252.223.146",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "US Washington DC",
+        "iso": "US",
+        "dns": "us-washingtondc.http-proxy.privateinternetbrowsing.com",
+        "ping": "70.32.1.74",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "CA Montreal",
+        "iso": "CA",
+        "dns": "ca-montreal.http-proxy.privateinternetbrowsing.com",
+        "ping": "172.98.71.128",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "UK Manchester",
+        "iso": "UK",
+        "dns": "uk-manchester.http-proxy.privateinternetbrowsing.com",
+        "ping": "89.249.74.171",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "LU Luxembourg",
+        "iso": "LU",
+        "dns": "lu.http-proxy.privateinternetbrowsing.com",
+        "ping": "5.253.204.157",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "CA Toronto",
+        "iso": "CA",
+        "dns": "ca-toronto.http-proxy.privateinternetbrowsing.com",
+        "ping": "66.115.142.126",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "IL Jerusalem",
+        "iso": "IL",
+        "dns": "israel.http-proxy.privateinternetbrowsing.com",
+        "ping": "185.191.205.73",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "US Trenton",
+        "iso": "US",
+        "dns": "us-newjersey.http-proxy.privateinternetbrowsing.com",
+        "ping": "37.120.202.117",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "US Dallas",
+        "iso": "US",
+        "dns": "us-texas.http-proxy.privateinternetbrowsing.com",
+        "ping": "156.146.39.74",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "AE Abu Dhabi",
+        "iso": "AE",
+        "dns": "ae.http-proxy.privateinternetbrowsing.com",
+        "ping": "146.70.37.130",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "CA Vancouver",
+        "iso": "CA",
+        "dns": "ca-vancouver.http-proxy.privateinternetbrowsing.com",
+        "ping": "104.200.150.134",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "NO Oslo",
+        "iso": "NO",
+        "dns": "no.http-proxy.privateinternetbrowsing.com",
+        "ping": "146.70.17.44",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "AT Vienna",
+        "iso": "AT",
+        "dns": "austria.http-proxy.privateinternetbrowsing.com",
+        "ping": "146.70.28.157",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "US Atlanta",
+        "iso": "US",
+        "dns": "us-atlanta.http-proxy.privateinternetbrowsing.com",
+        "ping": "156.146.47.9",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "IN Mumbai",
+        "iso": "IN",
+        "dns": "in.http-proxy.privateinternetbrowsing.com",
+        "ping": "196.247.240.197",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "NZ Wellington",
+        "iso": "NZ",
+        "dns": "nz.http-proxy.privateinternetbrowsing.com",
+        "ping": "221.121.135.163",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "UK Southampton",
+        "iso": "UK",
+        "dns": "uk-southampton.http-proxy.privateinternetbrowsing.com",
+        "ping": "138.199.28.159",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "FR Paris",
+        "iso": "FR",
+        "dns": "france.http-proxy.privateinternetbrowsing.com",
+        "ping": "146.70.40.202",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "SE Stockholm",
+        "iso": "SE",
+        "dns": "sweden.http-proxy.privateinternetbrowsing.com",
+        "ping": "146.70.21.90",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "CZ Prague",
+        "iso": "CZ",
+        "dns": "czech.http-proxy.privateinternetbrowsing.com",
+        "ping": "212.102.39.163",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "US Denver",
+        "iso": "US",
+        "dns": "us-denver.http-proxy.privateinternetbrowsing.com",
+        "ping": "199.115.96.132",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "SG Singapore",
+        "iso": "SG",
+        "dns": "sg.http-proxy.privateinternetbrowsing.com",
+        "ping": "156.146.57.7",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "DE Frankfurt",
+        "iso": "DE",
+        "dns": "de-frankfurt.http-proxy.privateinternetbrowsing.com",
+        "ping": "77.243.183.139",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "NL Amsterdam",
+        "iso": "NL",
+        "dns": "nl-amsterdam.http-proxy.privateinternetbrowsing.com",
+        "ping": "109.201.152.184",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "US Houston",
+        "iso": "US",
+        "dns": "us-houston.http-proxy.privateinternetbrowsing.com",
+        "ping": "156.146.39.217",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "AU Sydney",
+        "iso": "AU",
+        "dns": "au-sydney.http-proxy.privateinternetbrowsing.com",
+        "ping": "27.50.87.162",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "BE Brussels",
+        "iso": "BE",
+        "dns": "brussels.http-proxy.privateinternetbrowsing.com",
+        "ping": "91.207.57.45",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "US Chicago",
+        "iso": "US",
+        "dns": "us-chicago.http-proxy.privateinternetbrowsing.com",
+        "ping": "143.244.60.149",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "UK London",
+        "iso": "UK",
+        "dns": "uk-london.http-proxy.privateinternetbrowsing.com",
+        "ping": "138.199.30.213",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "US Miami",
+        "iso": "US",
+        "dns": "us-florida.http-proxy.privateinternetbrowsing.com",
+        "ping": "37.120.157.147",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "US Las Vegas",
+        "iso": "US",
+        "dns": "us-lasvegas.http-proxy.privateinternetbrowsing.com",
+        "ping": "45.89.173.242",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "IT Milano",
+        "iso": "IT",
+        "dns": "italy.http-proxy.privateinternetbrowsing.com",
+        "ping": "217.138.197.230",
+        "port": 8443,
+        "mace": 8080
+    },
+    {
+        "name": "IE Dublin",
+        "iso": "IE",
+        "dns": "ireland.http-proxy.privateinternetbrowsing.com",
+        "ping": "146.70.48.235",
+        "port": 8443,
+        "mace": 8080
+    }
+]
